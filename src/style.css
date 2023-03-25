@@ -1,0 +1,35 @@
+.header{
+    margin: auto;
+    padding: 25px;
+    background-color: rgb(249, 204, 148);
+    width: 100%;
+    font-weight: 600;
+    text-align: center;
+}
+
+.tool-bar {
+    padding: 40px 0 20px 0;
+    width: 100%;
+    background-color: rgb(247, 171, 20);
+    justify-items: center;
+}
+
+.input-action {
+    display: flex;
+    justify-content: space-around;
+}
+
+#image-container {
+    display: grid;
+    grid-template-columns: 25% 25% 25% 25%;
+    gap: 20px;
+    width: 90%;
+    margin: 20px auto;
+}
+
+progress {
+    height: 20px;
+    width: 200px;
+    margin: 0px 20px;
+    color: rgb(23, 217, 42);
+}

@@ -1,0 +1,26 @@
+# Ignore node_modules directory
+node_modules/
+
+# Ignore logs and temp files
+logs/
+*.log
+*.pid
+*.lock
+
+# Ignore environment variables
+.env
+
+# Ignore build artifacts
+build/
+dist/
+out/
+*.tgz
+
+# Ignore package-lock.json file
+package-lock.json
+
+# Ignore .DS_Store file on macOS
+.DS_Store
+
+# Ignore .idea directory created by JetBrains IDEs
+.idea/
