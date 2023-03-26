@@ -40,6 +40,8 @@ Step 1: Clone code from this respo
 
 Step 2: Open terminal and Install dependency
 ```npm install```
+
 Step 3: Run frontend web locally
 ```npm run start```
+
 Step 4: Open live server url.
