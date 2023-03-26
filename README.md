@@ -36,7 +36,12 @@ Step 3: After finishing classifying process, "Download" button would be availabl
 ## Deployment Method
 Prequesite: Node.js installation globally
 
-Step 1: Clone code from this respo
+Step 1: Clone code from this repos
+```bash
+git clone https://github.com/BryanGsep/GSoC-2023-Code-Challenge.git
+
+cd GSoC-2023-Code-Challenge
+```
 
 Step 2: Open terminal and Install dependency
 ```npm install```
