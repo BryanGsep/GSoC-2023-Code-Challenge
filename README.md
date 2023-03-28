@@ -50,3 +50,7 @@ Step 3: Run frontend web locally
 ```npm run start```
 
 Step 4: Open live server url.
+
+## Deploy and usage example video
+
+https://www.youtube.com/watch?v=F9dDBqAxGGM
